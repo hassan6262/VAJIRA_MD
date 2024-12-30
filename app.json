@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=PV8SxZaR#Wl0FO55eIn42VhE6N0qwzMGsd18DNBkNMcE6iZHPEso",
             "required": true,
             "value": "VAJIRA-MD=nQ9zgaSY#0gZ6UuHLhpIlj7gtthoZ_ycXzwv3MtYHQ-zvffCXNto"
         },
